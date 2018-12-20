@@ -1,0 +1,15 @@
+G:\TestTask\Serverr\Serverr\obj\Debug\Server.csprojAssemblyReference.cache
+G:\TestTask\Serverr\Serverr\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\TestTask\Serverr\Serverr\obj\Debug\Serverr.exe
+G:\TestTask\Serverr\Serverr\obj\Debug\Serverr.pdb
+G:\TestTask\Serverr\Serverr\bin\Serverr.exe.config
+G:\TestTask\Serverr\Serverr\bin\Serverr.exe
+G:\TestTask\Serverr\Serverr\bin\Serverr.pdb
+G:\TestTask\Serverr\Serverr\bin\EntityFramework.dll
+G:\TestTask\Serverr\Serverr\bin\EntityFramework.SqlServer.dll
+G:\TestTask\Serverr\Serverr\bin\EntityFramework.SqlServerCompact.dll
+G:\TestTask\Serverr\Serverr\bin\System.Data.SqlServerCe.dll
+G:\TestTask\Serverr\Serverr\bin\EntityFramework.xml
+G:\TestTask\Serverr\Serverr\bin\EntityFramework.SqlServer.xml
+G:\TestTask\Serverr\Serverr\bin\EntityFramework.SqlServerCompact.xml
+G:\TestTask\Serverr\Serverr\obj\Debug\Server.csproj.CopyComplete
